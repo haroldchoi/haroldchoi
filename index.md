@@ -1,3 +1,4 @@
+[Body Measurement investigation.pdf](https://github.com/haroldchoi/haroldchoi.github.io/files/6809523/Body.Measurement.investigation.pdf)
 ## Portfolio
 
 ---
