@@ -1,11 +1,10 @@
-[Body Measurement investigation.pdf](https://github.com/haroldchoi/haroldchoi.github.io/files/6809523/Body.Measurement.investigation.pdf)
 ## Portfolio
 
 ---
 
 ### Statistics  
 
-[Body Measurements](/pdf/Body_Measurement_investigation.pdf)
+[Body Measurements](https://github.com/haroldchoi/haroldchoi.github.io/files/6809523/Body.Measurement.investigation.pdf)
 Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
 
 ---
