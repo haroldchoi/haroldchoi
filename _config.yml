@@ -1,5 +1,5 @@
 title: Harold Choi # your name (or website title) here
-logo: "/images/logo.png" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Master of Analytics at RMIT student with a Bachelor of Commerce seeking opportunities in the data and technology industry. 
   Experience at fintech and AI startups, and multinational professional services and banks working on projects and initiatives varying in size, complexity, ambiguity and abstraction.
