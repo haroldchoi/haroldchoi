@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Statistics  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Body Measurements](/sample_page)
+Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
