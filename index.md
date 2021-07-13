@@ -4,7 +4,7 @@
 
 ### Statistics  
 
-[Body Measurements](/sample_page)
+[Body Measurements](/pdf/Body Measurement investigation.pdf)
 Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
 
 ---
