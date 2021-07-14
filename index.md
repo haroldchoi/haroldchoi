@@ -9,7 +9,7 @@
 Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
 
 ---
-[Alcohol Purchased and Offences](/pdf/Data wrangling assignment 2.pdf)
+[Alcohol Purchased and Offences](/pdf/Data_wrangling_assignment 2.pdf)
 
 Import, merge, clean and transform different datasets related to alcohol purchased and criminal offences to understand and visualize if more alcohol could lead to higher criminal offences in Australia. 
 
