@@ -18,7 +18,7 @@
 
 **[Data importation and pre-preprocessing for Loan Prediction (written in Python)](/pdf/Phase1_Group35.html)**
 
-**Perform necessary data pre-processing steps such as removing missing values and prepare the dataset for classification algorithm within the Scikit-Learn Python module.
+**Perform necessary data pre-processing steps such as removing missing values and prepare the dataset for classification algorithm within the Scikit-Learn Python module.**
 
 **[Loan prediction using Machine Learning Techniques (written in Python)](/pdf/Phase2_Group35.html)**
 
