@@ -21,14 +21,13 @@ Identification of trend, randomness, normality of trend, and modelling the most 
 Perform necessary data pre-processing steps and fed into any classification algorithm within the Scikit-Learn Python module.
 Given a dataset with loan history, salary and other descriptive features of loan applicants, various algorithm are used to perform predictions on loan approval or rejection of a bank.
 
-
 [SEA Limited Full Stock Price Prediction (written in Python)](/pdf/SEA_Limited_Stock price_prediction.ipynb)
 
----
----
+Importing stock price data from Yahoo Finance and perform analysis using data visualisation of excess returns, volatility, volume and price movement. Predicting SEA Limited stock price with a LSTM model. 
+
 [SEA Limited, Tencent, Alibaba Returns and Sharpe Ratio (written in Python)](/pdf/SEA_Alibaba_Tencent_analysis_sharpe_sd.ipynb)
 
-Importing stock price data from Yahoo Finance and perform analysis using data visualisation of excess returns, volatility, volume and price movement. Predicting SEA Limited stock price with a LSTM model. 
+Comparing SEA Limited stock price with various competitors and calculating sharpe ratio and standard deviation to find out which stock has the best return for a given level of risk and volatility. 
 
 ---
 
