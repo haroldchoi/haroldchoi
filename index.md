@@ -22,6 +22,7 @@ Perform necessary data pre-processing steps and fed into any classification algo
 Given a dataset with loan history, salary and other descriptive features of loan applicants, various algorithm are used to perform predictions on loan approval or rejection of a bank.
 
 [SEA Limited Full Stock Price Prediction (written in Python)](/pdf/SEA_Limited_Stock price_prediction.ipynb)
+
 [SEA Limited, Tencent, Alibaba Returns and Sharpe Ratio (written in Python)](/pdf/SEA_Alibaba_Tencent_analysis_sharpe_sd.ipynb)
 
 Importing stock price data from Yahoo Finance and perform analysis using data visualisation of excess returns, volatility, volume and price movement. Predicting SEA Limited stock price with a LSTM model. 
