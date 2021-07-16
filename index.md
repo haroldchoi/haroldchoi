@@ -4,7 +4,7 @@
 
 ### Projects 
 
-<p type="text/css">
+**
 
 [A Statistical approach to Body Measurements (written in R)](/pdf/Body_Measurement_investigation.pdf)
 
@@ -32,9 +32,9 @@ Importing stock price data from Yahoo Finance and perform analysis using data vi
 
 [SEA Limited, Tencent, Alibaba Returns and Sharpe Ratio (written in Python)](/pdf/SEA.html)
 
-Comparing SEA Limited stock price with various competitors and calculating sharpe ratio and standard deviation to find out which stock has the best return for a given level of risk and volatility. 
+**Comparing SEA Limited stock price with various competitors and calculating sharpe ratio and standard deviation to find out which stock has the best return for a given level of risk and volatility.**
 
-</p>
+
 ---
 
 
