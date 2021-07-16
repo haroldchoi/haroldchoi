@@ -16,9 +16,9 @@
 
 **Identification of trend, randomness, normality of trend, and modelling the most appropriate time series model to fit the time series data of Hungary from 2005 to 2015.**  
 
-**[Data importation and pre-preprocessing for Loan Prediction (written in Python)](/pdf/Phase2_Group35.ipynb)**
+**[Data importation and pre-preprocessing for Loan Prediction (written in Python)](/pdf/Phase2_Group35.html)**
 
-**[Loan prediction using Machine Learning Techniques (written in Python)](/pdf/Phase1_Group35.ipynb)**
+**[Loan prediction using Machine Learning Techniques (written in Python)](/pdf/Phase1_Group35.html)**
 
 **Perform necessary data pre-processing steps and fed into any classification algorithm within the Scikit-Learn Python module.
 Given a dataset with loan history, salary and other descriptive features of loan applicants, various algorithm are used to perform predictions on loan approval or rejection of a bank.**
