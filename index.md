@@ -4,26 +4,27 @@
 
 ### Projects 
 
-[A Statistical approach to Body Measurements](/pdf/Body_Measurement_investigation.pdf)
+[A Statistical approach to Body Measurements (written in R)](/pdf/Body_Measurement_investigation.pdf)
 
 Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
 
-[Australia's Alcohol Purchased and Offences](/pdf/Data_wrangling_assignment_2.pdf)
+[Australia's Alcohol Purchased and Offences (written in R)](/pdf/Data_wrangling_assignment_2.pdf)
 
 Import, merge, clean and transform different datasets related to alcohol purchased and criminal offences to understand and visualize if more alcohol could lead to higher criminal offences in Australia. 
 
-[Chickenpox across the years in Hungary](/pdf/TSA_Group_Assignment.pdf)
+[Chickenpox across the years in Hungary (written in R)](/pdf/TSA_Group_Assignment.pdf)
 
 Identification of trend, randomness, normality of trend, and modelling the most appropriate time series model to fit the time series data of Hungary from 2005 to 2015.  
 
-[Loan prediction using Machine Learning Techniques](/pdf/Phase1_Group35.ipynb)
+[Loan prediction using Machine Learning Techniques (written in Python)](/pdf/Phase1_Group35.ipynb)
 
 Perform necessary data pre-processing steps and fed into any classification algorithm within the Scikit-Learn Python module.
 Given a dataset with loan history, salary and other descriptive features of loan applicants, various algorithm are used to perform predictions on loan approval or rejection of a bank.
 
-[Stock price analysis and prediction of SEA Limited, Alibaba, Tencent]
+[SEA Limited Full Stock Price Prediction (written in Python)](/pdf/SEA_Limited_Stock price_prediction.ipynb)
+[SEA Limited, Tencent, Alibaba Returns and Sharpe Ratio (written in Python)](/pdf/SEA_Alibaba_Tencent_analysis_sharpe_sd.ipynb)
 
-
+Importing stock price data from Yahoo Finance and perform analysis using data visualisation of excess returns, volatility, volume and price movement. Predicting SEA Limited stock price with a LSTM model. 
 
 ---
 
