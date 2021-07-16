@@ -10,7 +10,7 @@
 
 **[Australia's Alcohol Purchased and Offences (written in R)](/pdf/Data_wrangling_assignment_2.pdf)**
 
-Import, merge, clean and transform different datasets related to alcohol purchased and criminal offences to understand and visualize if more alcohol could lead to higher criminal offences in Australia.** 
+**Import, merge, clean and transform different datasets related to alcohol purchased and criminal offences to understand and visualize if more alcohol could lead to higher criminal offences in Australia.** 
 
 **[Chickenpox across the years in Hungary (written in R)](/pdf/TSA_Group_Assignment.pdf)**
 
