@@ -4,7 +4,7 @@
 
 ### Projects 
 
-<p style="font-size:14px">
+<p style="font-size:12px">
 
 [A Statistical approach to Body Measurements (written in R)](/pdf/Body_Measurement_investigation.pdf)
 
@@ -52,5 +52,4 @@ Comparing SEA Limited stock price with various competitors and calculating sharp
 
 
 ---
-Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
 
