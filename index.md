@@ -2,7 +2,7 @@
 
 ---
 
-### Projects 
+### *Projects*
 
 **[A Statistical approach to Body Measurements (written in R)](/pdf/Body_Measurement_investigation.pdf)**
 
