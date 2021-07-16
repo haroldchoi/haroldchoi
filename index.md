@@ -16,7 +16,12 @@ Import, merge, clean and transform different datasets related to alcohol purchas
 
 Identification of trend, randomness, normality of trend, and modelling the most appropriate time series model to fit the time series data of Hungary from 2005 to 2015.  
 
+[Loan prediction using Machine Learning Techniques](/pdf/Phase1_Group35.ipynb)
+
+Perform necessary data pre-processing steps and fed into any classification algorithm within the Scikit-Learn Python module.
+Given a dataset with loan history, salary and other descriptive features of loan applicants, various algorithm are used to perform predictions on loan approval or rejection of a bank.
 ---
+
 
 ### Category Name 2
 
