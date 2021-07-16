@@ -4,6 +4,7 @@
 
 ### Projects 
 
+<p style="font-size:12px">
 [A Statistical approach to Body Measurements (written in R)](/pdf/Body_Measurement_investigation.pdf)
 
 Visualize and investigate the normality of the waist length of Male and Female and justify whether they can pass the hypothesis test and fit into normal distributions
@@ -15,6 +16,9 @@ Import, merge, clean and transform different datasets related to alcohol purchas
 [Chickenpox across the years in Hungary (written in R)](/pdf/TSA_Group_Assignment.pdf)
 
 Identification of trend, randomness, normality of trend, and modelling the most appropriate time series model to fit the time series data of Hungary from 2005 to 2015.  
+
+[Data importation and pre-preprocessing for Loan Prediction (written in Python)] (/pdf/Phase2_Group35.ipynb)
+
 
 [Loan prediction using Machine Learning Techniques (written in Python)](/pdf/Phase1_Group35.ipynb)
 
@@ -28,7 +32,7 @@ Importing stock price data from Yahoo Finance and perform analysis using data vi
 [SEA Limited, Tencent, Alibaba Returns and Sharpe Ratio (written in Python)](/pdf/SEA.html)
 
 Comparing SEA Limited stock price with various competitors and calculating sharpe ratio and standard deviation to find out which stock has the best return for a given level of risk and volatility. 
-
+</p>
 ---
 
 
@@ -46,5 +50,5 @@ Comparing SEA Limited stock price with various competitors and calculating sharp
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
+
