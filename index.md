@@ -12,9 +12,13 @@
 
 **Import, merge, clean and transform different datasets related to alcohol purchased and criminal offences to understand and visualize if more alcohol could lead to higher criminal offences in Australia.** 
 
+**[Ozone Layer Thickness across the years (written in R)](/pdf/Time_Series_Analysis_of_Ozone_Layer_Thickness.html)**
+
+**Time series analysis to fit various model such as linear, quadratic, seasonal, and cosine to determine which model best fits the data. Proposal and analysis of a autoregressive moving average model and transformation of the time series.**
+
 **[Chickenpox across the years in Hungary (written in R)](/pdf/TSA_Group_Assignment.pdf)**
 
-**Identification of trend, randomness, normality of trend, and modelling the most appropriate time series model to fit the time series data of Hungary from 2005 to 2015.**  
+**Identification of trend, randomness, normality of trend, and modelling the most appropriate seasonal time series model to fit the data of Hungary from 2005 to 2015.**  
 
 **[Data importation and pre-preprocessing for Loan Prediction (written in Python)](/pdf/Phase1_Group35.html)**
 
